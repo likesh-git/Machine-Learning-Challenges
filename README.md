@@ -4,4 +4,4 @@ This repository contains a variety of Machine Learning problem statements as wel
 
 .txt - This file contains the problem statement
 
-.ipynb - This file contains the Python solution.
+.py - This file contains the Python solution.
